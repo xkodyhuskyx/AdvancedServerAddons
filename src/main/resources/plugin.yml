@@ -1,0 +1,8 @@
+name: Advanced Server Addons
+version: '${project.version}'
+main: com.kodexsystems.asaddons.AdvancedServerAddons
+api-version: 1.18
+prefix: asaddons
+authors: [ xkodyhuskyx ]
+description: A spigot plugin that adds numerous server customization options and features.
+website: https://github.com/xkodyhuskyx/AdvancedServerAddons
